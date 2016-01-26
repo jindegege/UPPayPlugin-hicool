@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "UPPayPlugin-hicool"
-  s.version      = "2.1.6"
+  s.version      = "0.0.1"
   s.summary      = "UPPayPlugin-hicool."
 
   # This description is used to generate tags and improve search results.
@@ -28,7 +28,7 @@ Pod::Spec.new do |s|
                     UPPayPlugin-hicool is a library.
                     DESC
 
-  s.homepage     = "http://github.com/jindegege/UPPayPlugin-hicool"
+  s.homepage     = "https://github.com/jindegege/UPPayPlugin-hicool"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
